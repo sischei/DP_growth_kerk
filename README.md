@@ -39,13 +39,6 @@ $ git config --global credential.helper 'cache --timeout=3600'
 ### Checking out the sources
 
 ```
-$ git config --global credential.helper cache
-$ git config --global credential.helper 'cache --timeout=3600'
-```
-
-### Checking out the sources
-
-```
 git clone https://github.com/sischei/DP_growth_kerk.git```
 ```
 
